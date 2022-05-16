@@ -1,0 +1,17 @@
+DIV
+
+Id
+Class
+border
+heigth - altura
+width - largura
+
+definir as partes ds pagina
+
+Header - parte superior pagina
+
+Left - lateral
+
+Main - conteudo
+
+Footer - rodapé pagina
